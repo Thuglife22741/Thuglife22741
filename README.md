@@ -30,4 +30,4 @@
 </div>
 
 
-![Snake animation](https://github.com/Thuglife22741/Thuglife22741/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Thuglife22741)
