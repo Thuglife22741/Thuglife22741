@@ -29,5 +29,3 @@
   </a>
 </div>
 
-
-![Snake animation](https://github.com/Thuglife22741)
