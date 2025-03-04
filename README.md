@@ -20,6 +20,9 @@
   <a href="mailto:contatodropfriends@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+##
+
+
 <div style="text-align: center;">
   <a href="https://www.instagram.com/fernando_drop/" target="_blank">
     <img src="https://media.giphy.com/media/SE4RLfSFAi0B2/giphy.gif" alt="GIF animado" style="width: 200px; height: auto; border-radius: 10px;">
