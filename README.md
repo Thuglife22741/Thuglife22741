@@ -28,4 +28,4 @@
     <img src="https://media.giphy.com/media/SE4RLfSFAi0B2/giphy.gif" alt="GIF animado" style="width: 200px; height: auto; border-radius: 10px;">
   </a>
 </div>
-![Snake animation] (https://github.com/Thuglife22741)
+![Snake animation] (https://github.com/Thuglife22741/Thuglife22741/blob/output/github-contribution-grid-snake.svg)
