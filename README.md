@@ -29,3 +29,5 @@
   </a>
 </div>
 
+![snake gif](https://github.com/Thuglife22741/Thuglife22741/blob/output/github-contribution-grid-snake.svg)
+
