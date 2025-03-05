@@ -40,8 +40,6 @@
   </a>
 </div>
 
-![snake gif](https://github.com/Thuglife22741/Thuglife22741/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thuglife22741}/count.svg" /></p> 
@@ -49,10 +47,3 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04336c&height=120&section=footer"/>
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
