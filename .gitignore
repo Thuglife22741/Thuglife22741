@@ -1,12 +1,57 @@
-.env
+# Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*$py.class
+*.so
 .Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.env
+.venv
 env/
 venv/
-.env.local
-.env.*.local
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and databases
 *.log
+*.sqlite3
+db.sqlite3
+
+# Local development
 .DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Project specific
+config/log/
+temp_post.py
+test_post_data.json
+test_product.json
+
+# Credentials and Sensitive Data
+.env
+src/crew_automation_for_shopify_e_commerce_integration/config/shopify_config.py
+src/crew_automation_for_shopify_e_commerce_integration/config/credentials.py
