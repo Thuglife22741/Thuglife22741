@@ -1,0 +1,20 @@
+[project]
+name = "crew_automation_for_shopify_e_commerce_integration"
+version = "0.1.0"
+description = "crew_automation_for_shopify_e_commerce_integration using crewAI"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.10,<=3.13"
+dependencies = [
+    "crewai[tools]>=0.86.0,<1.0.0"
+]
+
+[project.scripts]
+crew_automation_for_shopify_e_commerce_integration = "crew_automation_for_shopify_e_commerce_integration.main:run"
+run_crew = "crew_automation_for_shopify_e_commerce_integration.main:run"
+train = "crew_automation_for_shopify_e_commerce_integration.main:train"
+replay = "crew_automation_for_shopify_e_commerce_integration.main:replay"
+test = "crew_automation_for_shopify_e_commerce_integration.main:test"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

@@ -1,0 +1,4 @@
+python-dotenv>=1.0.0
+crewai>=0.12.2
+shopify>=12.0.0
+openai>=1.6.0

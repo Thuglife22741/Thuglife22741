@@ -1,0 +1,50 @@
+---
+scrape_competitor_data:
+  description: Use ScrapeWebsiteTool or SeleniumScrapingTool to collect data from
+    the provided {competitor_urls}. Incorporate the {seo_keywords} into a draft that
+    outlines the content for an optimized sales page.
+  expected_output: A draft content piece for the sales page that seamlessly integrates
+    the SEO keywords and competitor insights.
+  async_execution: false
+  agent: seo_content_creator
+review_and_publish_seo_content:
+  description: Review and refine the content generated in the 'scrape_competitor_data'
+    task, ensuring it meets all SEO guidelines. Publish the final version of the sales
+    page on Shopify using the provided {shopify_api_key}.
+  expected_output: A fully optimized sales page published on Shopify, ready for conversion.
+  async_execution: false
+  agent: seo_reviewer_publisher
+  context:
+  - scrape_competitor_data
+generate_social_media_post:
+  description: Extract product details from the {product_page_url} and create engaging
+    social media post content for Instagram and Facebook. Generate images using OpenAI
+    automatic services and for reels, utilize the Runway API via {runway_api_key}.
+  expected_output: Complete social media post content complete with visuals (images
+    or reels) that is ready for publication.
+  async_execution: false
+  agent: social_media_creator
+automate_instagram_responses:
+  description: Monitor Instagram Direct messages and use data from Shopify (via {shopify_api_key})
+    to automatically respond to customer queries, provide tracking codes, and clarify
+    product details.
+  expected_output: An automated response system that handles Instagram Direct inquiries
+    effectively, providing accurate product and tracking information.
+  async_execution: false
+  agent: instagram_direct_responder
+configure_email_marketing:
+  description: Set up and automate email marketing campaigns using Klaviyo. Schedule
+    the emails and configure triggers using {klaviyo_api_key} to ensure timely and
+    personalized customer engagement.
+  expected_output: Automated email marketing campaigns that are correctly triggered
+    and scheduled, leading to improved customer engagement.
+  async_execution: false
+  agent: email_marketing_manager
+develop_streamlit_dashboard:
+  description: Develop a comprehensive SaaS dashboard using Streamlit with separate
+    tabs for SEO, Social Media, Instagram Direct, and Email Marketing. Integrate all
+    necessary API configurations using {streamlit_config}.
+  expected_output: A fully functional and user-friendly Streamlit dashboard that centralizes
+    all modules for easy configuration and monitoring.
+  async_execution: false
+  agent: streamlit_dashboard_developer
