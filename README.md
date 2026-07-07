@@ -3,8 +3,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Fernando+Cerqueira.;Tenho+45+anos;Sou+do+Rio+de+Janeiro,+RJ;Estudante+de+Python+e+E-commerce;Seja+Bem-vindo%21+:%29)](https://git.io/typing-svg)
 
-[![My GitFut card](https://gitfut.com/Thuglife22741.png?country=BR)](https://gitfut.com/Thuglife22741?country=BR)
-
 - 🛒 Trabalho com **E-commerce**  
 - 🐍 Estudando **Python**  
 - 🌍 dropfriends.ofc  
