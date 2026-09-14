@@ -5,7 +5,7 @@
 
 - 🛒 Trabalho com **E-commerce**  
 - 🐍 Estudando **Python**  
-- 🌍 dropfriends.ofc  
+- 🌍 alavancaai.com
 - 📧 **Email:** contatodropfriends@gmail.com  
 - 👨 Pronomes: Ele/Dele
 
