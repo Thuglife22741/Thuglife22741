@@ -20,7 +20,8 @@
   <a href="https://monocard.me/fernando_drop" target="_blank"><img src="https://img.shields.io/badge/Monocard-000000?style=for-the-badge&logo=monocard&logoColor=white"></a>
   <a href="mailto:contatodropfriends@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <br><br>
-  <a href="https://www.instagram.com/fernando_drop/" target="_blank"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmRyZ3R3eHh6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="350" style="border-radius: 10px;"></a>
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding GIF" width="350" style="border-radius: 10px;">
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04336c&height=120&section=footer"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04336c&height=120&section=footer"/>
